@@ -1,0 +1,10 @@
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (2,'岡崎 瞳', 'おかざき ひとみ', '滋賀県', '滋賀県彦根市金剛寺町2-16ザ金剛寺町313',34);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (3,'白鳥 蒼甫', 'しらとり そうすけ', '東京都', '東京都練馬区豊玉南4-11',22);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (4,'猪股 竜也', 'いのまた たつや','北海道', '北海道千歳市千代田町2-3千代田町シティ102',19);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (5,'尾上 菊生', 'おがみ きくお', '東京都', '東京都小平市回田町2-12-17フォレスト回田町202',41);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (6,'黒川 基祐', 'くろかわ きすけ','愛知県', '愛知県稲沢市清水阿原町3-18スイート清水阿原町210',25);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (7,'並木 雅彦', 'なみき まさひこ','福岡県', '福岡県飯塚市長尾1-3-17フォレスト長尾302',29);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (8,'村上 薫', 'むらかみ かおる','千葉県', '千葉県千葉市中央区汐見丘町4-13',30);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (9,'羽田 龍吉', 'はた りゅうきち','福島県', '福島県白河市登リ町3-9-3登リ町ヒル201',45);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (10,'岩本 寛治', 'いわもと かんじ','山梨県', '山梨県山梨市南1-9コーポ南219',36);
+INSERT INTO meibo (id, name, name_kana, prefecture, address, age) VALUES (11,'吉崎 政弘', 'よしざき まさひろ','千葉県', '千葉県千葉市中央区本町1-20',23);
