@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #6c6b6b;
 }
 
 header {
@@ -13,7 +12,8 @@ header {
 
 .nav-list {
   text-align: center;
-  margin: 0px auto;
+  padding: 15px;
+  margin: 0 auto;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
 }
@@ -21,12 +21,11 @@ header {
 .nav-list-item {
   list-style: none;
   display: inline-block;
-  margin: 15px 20px;
+  margin: 0 20px;
 }
 
 .main {
   width: 800px;
-  height: 600px;
   margin: 50px auto;
   font-size: 0px;
 }
