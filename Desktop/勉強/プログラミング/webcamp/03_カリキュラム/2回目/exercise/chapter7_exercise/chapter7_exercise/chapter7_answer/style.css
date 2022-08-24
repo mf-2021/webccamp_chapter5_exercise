@@ -5,8 +5,8 @@
 }
 
 .main-visual {
-  width: 100%;
   height: 400px;
+  width: 100%;
   background-image: url(img/mv.jpg);
   background-size: cover;
   background-position: bottom;
@@ -21,25 +21,25 @@ main {
   margin: 50px auto;
 }
 
-.main-item1 {
+.service1 {
   margin-bottom: 30px;
-  padding-bottom: 30px;
   border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
 
-.main-item2 {
+.service2 {
   margin-bottom: 30px;
-  padding-bottom: 30px;
   border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
 
-.main-item3 {
+.service3 {
   margin-bottom: 30px;
-  padding-bottom: 30px;
   border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
 
-.main-item4 {
-  padding-bottom: 30px;
+.service4 {
   border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
 }
